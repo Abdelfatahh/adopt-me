@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 import SearchParams from "./searchParams";
-import searchParams from "./searchParams"
+
 const App = () => {
   // return React.createElement("div", {}, [
   //   React.createElement("h1", {}, "Adopt ME!"),
